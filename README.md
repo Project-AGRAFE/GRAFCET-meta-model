@@ -9,11 +9,11 @@ The metamodel includes two packages:
 The meta-models are implemented as .ecore-files. This allows a model-driven development of Java-classes using the [*Eclipse Modeling Framework*](https://www.eclipse.org/modeling/emf/ "*Eclipse Modeling Framework*").
 
 ## Visual documentation
-| <img src="./docs/images/Metamodel_GRAFCET.pdf" height="400" />| 
+| <img src="./docs/images/grafcet-gackage.png" height="400" />| 
 |:--:|
 | Visual representation of the *grafcet* package |
 
-| <img src="./docs/images/Metamodel_Terms.pdf" height="400" />| 
+| <img src="./docs/images/terms-package.png" height="400" />| 
 |:--:|
 | Visual representation of the *terms* package |
 
