@@ -2,7 +2,7 @@
 A detailed meta-model for IEC 60848 GRAFCET
 
 The meta-model includes two packages:
-* [*grafcet*](./model/grafcet.ecore) includes the main objects introduced by IEC 60848 and was originally proposed by Julius et al. [1]
+* [*grafcet*](./model/grafcet.ecore) includes the main objects introduced by IEC 60848, based on [1]
 * [*terms*](./model/terms.ecore) includes objects to model terms in a recursive manner, based on [2]
 
 The meta-model is implemented as .ecore-files. This allows a model-driven development of Java-classes using the [*Eclipse Modeling Framework*](https://www.eclipse.org/modeling/emf/).
