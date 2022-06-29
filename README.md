@@ -13,7 +13,7 @@ The meta-models are implemented as .ecore-files. This allows a model-driven deve
 |:--:|
 | Visual representation of the *grafcet* package |
 
-| <img src="./docs/images/terms-package.png" height="400" />| 
+| <img src="./docs/images/terms-package.png" height="650" />| 
 |:--:|
 | Visual representation of the *terms* package |
 
