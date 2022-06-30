@@ -1,4 +1,4 @@
-# GRAFCET-metamodel
+# GRAFCET meta-model
 A detailed meta-model for IEC 60848 GRAFCET
 
 The meta-model includes two packages:
