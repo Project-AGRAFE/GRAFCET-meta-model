@@ -19,7 +19,20 @@ The meta-model is implemented as .ecore-files. This allows a model-driven develo
 
 
 ## How to cite
-*tbd*
+R. Mross, A. Schnakenbeck, M. Völker, A. Fay and S. Kowalewski, "Transformation of GRAFCET Into GAL for Verification Purposes Based on a Detailed Meta-Model," in IEEE Access, vol. 10, pp. 125652-125665, 2022, doi: [10.1109/ACCESS.2022.3225736](https://doi.org/10.1109/ACCESS.2022.3225736)
+
+```
+@ARTICLE{mross.22,
+  author={Mross, Robin and Schnakenbeck, Aron and Völker, Marcus and Fay, Alexander and Kowalewski, Stefan},
+  journal={IEEE Access}, 
+  title={Transformation of GRAFCET Into GAL for Verification Purposes Based on a Detailed Meta-Model}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={125652-125665},
+  doi={10.1109/ACCESS.2022.3225736}}
+```
+
 
 ## References
 [1] R. Julius, T. Trenner, A. Fay, J. Neidig and X. L. Hoang, "A meta-model based environment for GRAFCET specifications," 2019 IEEE International Systems Conference (SysCon), 2019, pp. 1-7, doi: [10.1109/SYSCON.2019.8836959](https://doi.org/10.1109/SYSCON.2019.8836959)
